@@ -1,0 +1,17 @@
+.odd {
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+    background-color: #FF8787;
+}
+#one {
+    font-size: 36px;
+    color: #5DA7DB;
+}
+
+.dang {
+    font-size: 24px;
+}
+#two {
+    font-size: 24px;
+    background-color: #69ac69;
+    font-weight: bold;
+}
